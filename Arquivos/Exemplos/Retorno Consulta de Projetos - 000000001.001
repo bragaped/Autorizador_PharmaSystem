@@ -1,0 +1,7 @@
+000-000 = 1
+001-000 = 00000001
+011-000 = 1
+012-000 = 13091;4;SAN001;Homologação PDV;Pharmalink;PACIENTE
+099-000 = 0
+099-001 = Consulta Realizada com Sucesso.
+999-000 = 0

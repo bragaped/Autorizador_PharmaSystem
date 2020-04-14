@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011/11/08 20:26:50.649.pas,C:\Users\Pedro\Documents\RAD Studio\Projects\Unit1.pas=D:\Projetos\Autorizador_PharmaSystem\U_PrincipalPharmaSystem.pas</Transaction>
+    <Transaction>2011/11/08 20:26:50.650.dfm,C:\Users\Pedro\Documents\RAD Studio\Projects\Unit1.dfm=D:\Projetos\Autorizador_PharmaSystem\U_PrincipalPharmaSystem.dfm</Transaction>
+    <Transaction>2011/11/08 20:27:06.507.dproj,C:\Users\Pedro\Documents\RAD Studio\Projects\Project1.dproj=D:\Projetos\Autorizador_PharmaSystem\AutorizadorPharmaSystem.dproj</Transaction>
+    <Transaction>2011/11/09 21:56:26.023.pas,D:\Projetos\Autorizador_PharmaSystem\Unit1.pas=D:\Projetos\Autorizador_PharmaSystem\U_PharmaSystem.pas</Transaction>
+    <Transaction>2011/11/13 20:25:48.801.pas,D:\Projetos\Autorizador_PharmaSystem\Unit1.pas=D:\Projetos\Autorizador_PharmaSystem\U_Funcoes.pas</Transaction>
+    <Transaction>2011/12/10 15:03:00.317.pas,D:\Projetos\Autorizador_PharmaSystem\Unit1.pas=D:\Projetos\Autorizador_PharmaSystem\U_DadosComplementares.pas</Transaction>
+    <Transaction>2011/12/10 15:03:00.317.dfm,D:\Projetos\Autorizador_PharmaSystem\Unit1.dfm=D:\Projetos\Autorizador_PharmaSystem\U_DadosComplementares.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
